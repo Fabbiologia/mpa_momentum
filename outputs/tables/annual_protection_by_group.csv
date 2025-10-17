@@ -1,0 +1,105 @@
+year,portfolio,cells,source,protection_level,series,cumulative_area_km2,cumulative_percent,annual_delta_km2,annual_delta_percent
+2000,minimal_cells,9068429,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,9068429,2.512,NA,NA
+2001,minimal_cells,9177308,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,9177308,2.5422,108879,0.030160387811634326
+2002,minimal_cells,9224586,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,9224586,2.5553,47278,0.013096398891966565
+2003,minimal_cells,9243919,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,9243919,2.5606,19333,0.005355401662050063
+2004,minimal_cells,9329272,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,9329272,2.5843,85353,0.023643490304709136
+2005,minimal_cells,9434492,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,9434492,2.6134,105220,0.029146814404431787
+2006,minimal_cells,11522404,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,11522404,3.1918,2087912,0.5783689750692522
+2007,minimal_cells,11571364,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,11571364,3.2054,48960,0.013562326869806185
+2008,minimal_cells,11637293,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,11637293,3.2236,65929,0.01826288088642647
+2009,minimal_cells,11924045,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,11924045,3.3031,286752,0.07943268698060946
+2010,minimal_cells,12342507,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,12342507,3.419,418462,0.11591745152354571
+2011,minimal_cells,12507579,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,12507579,3.4647,165072,0.04572631578947384
+2012,minimal_cells,14223821,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,14223821,3.9401,1716242,0.47541329639889174
+2013,minimal_cells,14831712,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,14831712,4.1085,607891,0.1683908587257621
+2014,minimal_cells,16235274,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,16235274,4.4973,1403562,0.3887983379501385
+2015,minimal_cells,16320172,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,16320172,4.5208,84898,0.023517451523545674
+2016,minimal_cells,17185572,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,17185572,4.7605,865400,0.2397229916897503
+2017,minimal_cells,19380562,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,19380562,5.3686,2194990,0.6080304709141275
+2018,minimal_cells,20562997,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,20562997,5.6961,1182435,0.32754432132963984
+2019,minimal_cells,20705733,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,20705733,5.7357,142736,0.03953905817174519
+2020,minimal_cells,20759047,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,20759047,5.7504,53314,0.014768421052631986
+2021,minimal_cells,20845799,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,20845799,5.7745,86752,0.024031024930747158
+2022,minimal_cells,20845815,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,20845815,5.7745,16,4.432132964637958e-6
+2023,minimal_cells,20980505,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,20980505,5.8118,134690,0.03731024930747928
+2024,minimal_cells,20980869,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,20980869,5.8119,364,1.0083102493041451e-4
+2025,minimal_cells,20980869,MPAs,Minimally or Moderately Protected,MPAs – Minimally or Moderately Protected,20980869,5.8119,0,0
+2000,high_cells,6606088,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,6606088,1.8299,NA,NA
+2001,high_cells,6618053,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,6618053,1.8333,11965,0.0033144044321331556
+2002,high_cells,6692699,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,6692699,1.8539,74646,0.02067756232686979
+2003,high_cells,6700549,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,6700549,1.8561,7850,0.0021745152354570862
+2004,high_cells,6708218,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,6708218,1.8582,7669,0.0021243767313017248
+2005,high_cells,6722407,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,6722407,1.8622,14189,0.00393047091412746
+2006,high_cells,9421286,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,9421286,2.6098,2698879,0.747611911357341
+2007,high_cells,9427568,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,9427568,2.6115,6282,0.001740166204986071
+2008,high_cells,9430265,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,9430265,2.6123,2697,7.470914127423178e-4
+2009,high_cells,11076041,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,11076041,3.0682,1645776,0.4558936288088642
+2010,high_cells,11182357,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,11182357,3.0976,106316,0.029450415512465522
+2011,high_cells,11187888,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,11187888,3.0991,5531,0.001532132963988797
+2012,high_cells,11194750,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,11194750,3.101,6862,0.0019008310249306604
+2013,high_cells,11246103,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,11246103,3.1153,51353,0.014225207756232816
+2014,high_cells,11256506,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,11256506,3.1181,10403,0.0028817174515234356
+2015,high_cells,11257311,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,11257311,3.1184,805,2.229916897507067e-4
+2016,high_cells,12120763,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,12120763,3.3576,863452,0.23918337950138513
+2017,high_cells,12272414,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,12272414,3.3996,151651,0.04200858725761769
+2018,high_cells,12490731,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,12490731,3.46,218317,0.060475623268698264
+2019,high_cells,12745740,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,12745740,3.5307,255009,0.07063961218836567
+2020,high_cells,12879417,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,12879417,3.5677,133677,0.037029639889196275
+2021,high_cells,13581192,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,13581192,3.7621000000000002,701775,0.19439750692520796
+2022,high_cells,13588930,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,13588930,3.7642,7738,0.0021434903047090614
+2023,high_cells,13755211,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,13755211,3.8103,166281,0.04606121883656522
+2024,high_cells,13755211,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,13755211,3.8103,0,0
+2025,high_cells,13755211,MPAs,Highly/Fully Protected,MPAs – Highly/Fully Protected,13755211,3.8103,0,0
+2000,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,NA,NA
+2001,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2002,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2003,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2004,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2005,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2006,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2007,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2008,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2009,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2010,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2011,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2012,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2013,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2014,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2015,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2016,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2017,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2018,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2019,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2020,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2021,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2022,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2023,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2024,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2025,minimal_cells,0,Other measures,Minimally or Moderately Protected,Other measures – Minimally or Moderately Protected,0,0,0,0
+2000,high_cells,7106,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7106,0.002,NA,NA
+2001,high_cells,7146,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7146,0.002,40,1.1080332409972495e-5
+2002,high_cells,7152,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7152,0.002,6,1.6620498614955057e-6
+2003,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,173,4.792243767313053e-5
+2004,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2005,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2006,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2007,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2008,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2009,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2010,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2011,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2012,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2013,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2014,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2015,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2016,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2017,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2018,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2019,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2020,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2021,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2022,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2023,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2024,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0
+2025,high_cells,7325,Other measures,Highly/Fully Protected,Other measures – Highly/Fully Protected,7325,0.002,0,0

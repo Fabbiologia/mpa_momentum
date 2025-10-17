@@ -1,0 +1,31 @@
+# Targets cache and session artefacts
+_targets/
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw input datasets (downloadable or third-party restricted)
+data/raw/habitats_original/
+data/raw/protected_seas_navigator_all_sites/
+data/raw/protected_seas_raster_legacy/
+data/raw/World_EEZ_v12_20231025_gpkg/
+data/raw/eez_land/
+
+
+# Archived legacy project snapshot
+archive/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Claude Code configuration
+.claude/
+
+# Manuscript files
+manuscript/
+
