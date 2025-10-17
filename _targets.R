@@ -74,15 +74,15 @@ list(
   
   tarchetypes::tar_render(
     manuscript_report,
-    "manuscript/ISCIENCE-D-25-20442_main_manuscript_reviewed.Rmd",
-    output_file = "ISCIENCE-D-25-20442_main_manuscript_reviewed.docx",
+    "manuscript/ISCIENCE-D-25-10442_main_manuscript_reviewed.Rmd",
+    output_file = "ISCIENCE-D-25-10442_main_manuscript_reviewed.docx",
     output_dir = "manuscript",
     quiet = TRUE
   ),
   tarchetypes::tar_render(
     response_letter,
-    "manuscript/ISCIENCE-D-25-20442_response_to_reviewers.Rmd",
-    output_file = "ISCIENCE-D-25-20442_response_to_reviewers.docx",
+    "manuscript/ISCIENCE-D-25-10442_response_to_reviewers.Rmd",
+    output_file = "ISCIENCE-D-25-10442_response_to_reviewers.docx",
     output_dir = "manuscript",
     quiet = TRUE
   )
