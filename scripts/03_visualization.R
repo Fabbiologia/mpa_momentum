@@ -120,7 +120,6 @@ plot_figure1 <- function(yearly_stats, global_habitat_summary, output_path) {
     geom_line(linewidth = 1) +
     scale_color_manual(values = c("#33a02c", "#1f78b4", "#1f78b4"), name = "") +
     scale_linetype_manual(values = c("solid", "solid", "dashed"), name = "") +
-    annotate("segment", x = 10, xend = 10, y = 80, yend = 40, arrow = arrow(length = unit(0.08, "inches"))) +
     annotate("text", x = 10.2, y = 82, label = "Upgrade decision", hjust = 0, size = 3) +
     labs(x = "Time (years)", y = "Social cost (arbitrary units)") +
     theme_minimal(base_size = 12) +
