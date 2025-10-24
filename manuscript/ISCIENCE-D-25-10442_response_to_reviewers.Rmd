@@ -6,16 +6,6 @@ output:
   word_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
-library(targets)
-library(dplyr)
-library(glue)
-library(scales)
-yearly_stats <- tar_read(yearly_stats)
-upgrade_opportunities <- tar_read(upgrade_opportunities)
-```
-
 # Overview
 
 We thank the editor and reviewers for the thoughtful and actionable feedback on our manuscript (ISCIENCE-D-25-10442). In revising the manuscript we:
